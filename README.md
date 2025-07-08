@@ -39,7 +39,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 O projeto está organizado da seguinte forma:
 
-`
+```
 /
 |-- README.md
 |-- softbike.html
@@ -60,7 +60,8 @@ O projeto está organizado da seguinte forma:
 |-- Briefing-SOFTBIKE.doc
 |-- marcas.txt
 |-- Mini-Projeto-exigencias.pdf
-`
+```
+
 ## 🏃 Como Executar
 
 Por ser um projeto de front-end, basta clonar o repositório e abrir o arquivo `softbike.html` em seu navegador de preferência.
