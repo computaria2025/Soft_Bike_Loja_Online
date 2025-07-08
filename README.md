@@ -38,3 +38,34 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## 📂 Estrutura de Arquivos
 
 O projeto está organizado da seguinte forma:
+
+`
+/
+|-- README.md
+|-- softbike.html
+|-- products.html
+|-- login.html
+|-- signup.html
+|-- assets/
+|   |-- css/
+|   |   |-- login.css
+|   |   |-- news.css
+|   |   |-- products.css
+|   |   |-- slogan.css
+|   |-- js/
+|   |   |-- cart.js
+|-- media/
+|   |-- (imagens e vídeos do projeto)
+|-- SoftBike-requisitos/
+|-- Briefing-SOFTBIKE.doc
+|-- marcas.txt
+|-- Mini-Projeto-exigencias.pdf
+`
+## 🏃 Como Executar
+
+Por ser um projeto de front-end, basta clonar o repositório e abrir o arquivo `softbike.html` em seu navegador de preferência.
+
+```bash
+git clone [https://github.com/seu-usuario/Soft_Bike_Loja_Online.git](https://github.com/seu-usuario/Soft_Bike_Loja_Online.git)
+cd Soft_Bike_Loja_Online/SoftBike-code
+# Abra o arquivo softbike.html no navegador
